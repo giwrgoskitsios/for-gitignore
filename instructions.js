@@ -1,0 +1,1 @@
+first I create all the file and then the .env where and the secrets and then the gitignore.
